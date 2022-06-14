@@ -39,11 +39,6 @@
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.0"
   },
-  "dependencies": {
-    "font-awesome-webpack-4": "^1.0.0",
-    "lodash": "^4.17.21",
-    "sortablejs": "^1.15.0"
-  },
   "jest": {
     "verbose": true,
     "coveragePathIgnorePatterns": [
